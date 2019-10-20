@@ -1,0 +1,6 @@
+{
+  "/health": {
+    "target": "http://app:5000",
+    "secure": false
+  }
+}
